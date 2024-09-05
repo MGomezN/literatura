@@ -1,4 +1,4 @@
-CARTA A UN CINEASTA 
+# CARTA A UN CINEASTA 
 
  
 Quiero que escuche sus lágrimas y que las vea caer. Pero no muestres rostro alguno. 
@@ -19,8 +19,8 @@ Ella llora mi muerte. Muéstrale que si no nací en ella, es porque nací en la 
 
 -------------------------------------------------------------------------------------------------------------------------------------------- 
 
-El cuento "Carta a un cineasta" está narrado desde la perspectiva del espíritu de un bebé que no pudo nacer. Es ese espíritu quien, desde otro plano, le da instrucciones al cineasta (una persona que crea, dirige o produce películas) para que haga un video destinado a su madre, la mujer que aparece en el cuento. A través de esas instrucciones, el espíritu guía al cineasta para mostrar que, aunque no pudo vivir de la forma esperada, su esencia continúa en otra forma. 
-Es un relato que honra la vida no vivida y celebra la continuidad de la existencia en el ciclo infinito de la naturaleza. 
+> El cuento "Carta a un cineasta" está narrado desde la perspectiva del espíritu de un bebé que no pudo nacer. Es ese espíritu quien, desde otro plano, le da instrucciones al cineasta (una persona que crea, dirige o produce películas) para > que haga un video destinado a su madre, la mujer que aparece en el cuento. A través de esas instrucciones, el espíritu guía al cineasta para mostrar que, aunque no pudo vivir de la forma esperada, su esencia continúa en otra forma. 
+> Es un relato que honra la vida no vivida y celebra la continuidad de la existencia en el ciclo infinito de la naturaleza. 
 
  
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -33,9 +33,9 @@ Es un relato que honra la vida no vivida y celebra la continuidad de la existenc
 
 
 
-© Mariana Gomez [2008]
+_© Mariana Gomez [2008]_
 
-Todos los derechos reservados. Este cuento es propiedad de su autora y no puede ser reproducido, distribuido, ni usado de ninguna forma sin permiso explícito por escrito de la autora. Para cualquier uso o consulta, por favor contacta a mariana22@ciencias.unam.mx.
+_Todos los derechos reservados. Este cuento es propiedad de su autora y no puede ser reproducido, distribuido, ni usado de ninguna forma sin permiso explícito por escrito de la autora. Para cualquier uso o consulta, por favor contacta a mariana22@ciencias.unam.mx._
 
-Este repositorio está destinado únicamente para la lectura del contenido aquí presentado.
+_Este repositorio está destinado únicamente para la lectura del contenido aquí presentado._
 
